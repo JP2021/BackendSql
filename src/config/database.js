@@ -3,7 +3,7 @@ module.exports={
     host: 'localhost',
     username: 'root',
     password:'351465nt',
-    database:'backendsql',
+    database:'backendsql3',
     define: {
         timestamps: true,
         underscored: true,
